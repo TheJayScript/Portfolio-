@@ -1,2 +1,2 @@
 # Portfolio
- A simple Portfolio websiote using HTML | CSS
+ A simple Portfolio websiote using HTML | CSS. For Ayagigs.
